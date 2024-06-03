@@ -1,0 +1,7 @@
+a. dotnet new mvc -o EtecShop
+b. cd EtecShop
+c. dotnet add package Microsoft.EntityFrameworkCore --version 8.0.6
+d. dotnet add package Microsoft.EntityFrameworkCore.Design --version 8.0.6
+e. dotnet add package Microsoft.EntityFrameworkCore.Tools --version 8.0.6
+f. dotnet add package Microsoft.EntityFrameworkCore.InMemory --version 8.0.6
+g. dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore --version 8.0.6
